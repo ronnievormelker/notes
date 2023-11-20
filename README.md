@@ -22,3 +22,9 @@ One of the most important aspects of programming is problem-solving. When faced 
 
 Secondly, planning ahead is crucial. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential issues and challenges you may face, as well as allowing you enough time for breaks and downtime. A well-planned schedule will also help to reduce stress and burnout. 
  - 来自NLP技术团队
+
+# 2023-11-20
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your work, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Think about what you need to accomplish and break it down into smaller, manageable tasks. Creating a plan will make it easier to stay focused and avoid getting lost in the weeds. You can use tools like Trello or Asana to help keep track of your tasks as you work through them. 
+ -- 212个词
