@@ -28,3 +28,6 @@ Secondly, planning ahead is crucial. Make a plan for your day, week, or even mon
 
 Second, planning ahead is crucial. Think about what you need to accomplish and break it down into smaller, manageable tasks. Creating a plan will make it easier to stay focused and avoid getting lost in the weeds. You can use tools like Trello or Asana to help keep track of your tasks as you work through them. 
  -- 212个词
+
+# 2023-11-21
+- "Write code that is easy to understand and maintain. This means using clear and concise variable names, writing comments to explain complex logic, and breaking down large functions into smaller, more manageable pieces. Remember, code is read more often than it is written, so make it easy for others (and your future self) to read and understand."
