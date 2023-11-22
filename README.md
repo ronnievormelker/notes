@@ -31,3 +31,6 @@ Second, planning ahead is crucial. Think about what you need to accomplish and b
 
 # 2023-11-21
 - "Write code that is easy to understand and maintain. This means using clear and concise variable names, writing comments to explain complex logic, and breaking down large functions into smaller, more manageable pieces. Remember, code is read more often than it is written, so make it easy for others (and your future self) to read and understand."
+
+# 2023-11-22
+- "Keep it simple, stupid!"
