@@ -40,3 +40,9 @@ Second, planning ahead is crucial. Think about what you need to accomplish and b
 
 # 2023-11-24
 - "Keep it simple, stupid!"
+
+# 2023-11-25
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and blockchain.
+
+To become a successful programmer, one must also develop excellent communication and teamwork skills, as programming is a collaborative process. It is essential to understand the needs and requirements of the project and work closely with other team members to achieve common goals. Effective communication can help identify potential issues and find creative solutions to problems. 
+ - 来自NLP
