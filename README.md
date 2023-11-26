@@ -46,3 +46,12 @@ Second, planning ahead is crucial. Think about what you need to accomplish and b
 
 To become a successful programmer, one must also develop excellent communication and teamwork skills, as programming is a collaborative process. It is essential to understand the needs and requirements of the project and work closely with other team members to achieve common goals. Effective communication can help identify potential issues and find creative solutions to problems. 
  - 来自NLP
+
+# 2023-11-26
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
+
+This quote highlights the importance of considering the end-user when designing and developing software. No matter how advanced or complex a program may be, it ultimately relies on human interaction and understanding. As such, programmers must strive to create intuitive and user-friendly interfaces that can accommodate a range of skill levels and prevent user error.
+
+At the same time, this quote also acknowledges the ever-evolving nature of technology and the challenges that come with keeping up with it. As new tools and programming languages emerge, developers must constantly adapt and learn in order to stay ahead of the curve.
+
+Overall, successful programming requires a balance of technical expertise and user-centric design, as well as a willingness to embrace change and continuous learning.
