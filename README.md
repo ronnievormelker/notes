@@ -61,3 +61,8 @@ Overall, successful programming requires a balance of technical expertise and us
 
 # 2023-11-28
 - "Today's programming wisdom is to focus on writing clean, readable, and maintainable code. It's important to remember that code is read far more often than it's written, so making it easy for others (and your future self) to understand is crucial. Use meaningful variable names, write clear comments, and structure your code in a logical way. Also, don't be afraid to break large tasks into smaller, more manageable pieces. This not only makes the code easier to work with, but also helps with debugging and testing. Lastly, always keep in mind the importance of testing your code thoroughly to ensure it works as expected in all scenarios."
+
+# 2023-11-29
+- "Every line of code you write is a liability. Minimize your liabilities." 
+
+This quote emphasizes the importance of writing efficient and concise code. Every line of code that you write increases the complexity of your program, making it harder to maintain and debug in the future. Therefore, it's important to strive for simplicity and avoid unnecessary code. This doesn't mean that you should sacrifice functionality or readability, but rather that you should always be mindful of the trade-offs between complexity and simplicity. By minimizing your liabilities, you can create code that is easier to understand, modify, and scale over time.
