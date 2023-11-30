@@ -66,3 +66,6 @@ Overall, successful programming requires a balance of technical expertise and us
 - "Every line of code you write is a liability. Minimize your liabilities." 
 
 This quote emphasizes the importance of writing efficient and concise code. Every line of code that you write increases the complexity of your program, making it harder to maintain and debug in the future. Therefore, it's important to strive for simplicity and avoid unnecessary code. This doesn't mean that you should sacrifice functionality or readability, but rather that you should always be mindful of the trade-offs between complexity and simplicity. By minimizing your liabilities, you can create code that is easier to understand, modify, and scale over time.
+
+# 2023-11-30
+- "Keep it simple, stupid!"
