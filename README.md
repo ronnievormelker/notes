@@ -89,3 +89,6 @@ Second, always plan your day or week ahead of time, so thatyou can schedule your
 Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your working hours. Planning ahead will prevent you from getting overwhelmed by tasks and help to maintain a sense of control. 
  <p>Finally, stay organised and use tools and techniques that help keep your code and project clean and manageable. Version control systems like Git can help with collaboration and tracking changes. Using well-structured code with good documentation will make it easier for you and others to understand and maintain your project.</p>
 总之，今天的智慧是优先处理任务，提前计划并保持组织。这将帮助您在工作中更高效和富有成效。通过优先完成最重要的任务, 您可以确保在正确的事情上取得进展。始终提前规划您的一天或一周，写下您的目标并将其分解为较小的任务。使用良好的代码结构和工具，使您的项目更易于理解和维护。
+
+# 2023-12-05
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity and harder-to-maintain code. It's better to write clear, simple code first and optimize only when profiling indicates a need for it.
