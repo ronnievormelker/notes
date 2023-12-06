@@ -92,3 +92,10 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 
 # 2023-12-05
 - Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity and harder-to-maintain code. It's better to write clear, simple code first and optimize only when profiling indicates a need for it.
+
+# 2023-12-06
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help with this:
+
+1. Prioritize tasks: When you are working on a project, make sure to list the tasks in order of priority. Focus on the most important tasks first, as this will ensure that you complete the majority of your project on time.
+2. Plan ahead: Always think ahead and plan for potential issues or challenges that may arise. By doing this, you can avoid last-minute panic and ensure your projects stay on track. 
+3. Stay organized: Use project management tools, such as Trello or Asana, to keep track of tasks and deadlines. These tools will helps you stay organised and on top of everything that needs to get done. Also, keep your code organized and well-documented, so that it' s easy to maintain and update in the future.
