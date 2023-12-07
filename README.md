@@ -99,3 +99,6 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 1. Prioritize tasks: When you are working on a project, make sure to list the tasks in order of priority. Focus on the most important tasks first, as this will ensure that you complete the majority of your project on time.
 2. Plan ahead: Always think ahead and plan for potential issues or challenges that may arise. By doing this, you can avoid last-minute panic and ensure your projects stay on track. 
 3. Stay organized: Use project management tools, such as Trello or Asana, to keep track of tasks and deadlines. These tools will helps you stay organised and on top of everything that needs to get done. Also, keep your code organized and well-documented, so that it' s easy to maintain and update in the future.
+
+# 2023-12-07
+- "Keep it simple, stupid!"
