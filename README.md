@@ -123,3 +123,9 @@ To achieve this, conduct user research, create personas, design with simplicity 
 
 # 2023-12-11
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. Code should be written with the assumption that someone else will have to read and understand it in the future. Use clear and concise variable names, avoid unnecessary complexity, and document your code thoroughly. Additionally, always test your code thoroughly before deploying it to production, and be prepared to debug and troubleshoot issues as they arise. Remember that programming is a collaborative effort, and good communication and teamwork skills are just as important as technical expertise.
+
+# 2023-12-12
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge to stay current in the ever-evolving field of technology. Embrace challenges and don't be afraid to take on new projects, as each one will help you grow as a developer.
+
+To stay ahead of the curve, it' s essential to read and study industry blogs, articles, and research. Attend conferences, workshops, meetups, or online courses to expand your knowledge and network. By staying informed, you' ll be better equipped to adapt to new technologies and trends. 
+ .. Remember that programming is a collaborative effort, so don t be shy about reaching out to others for help or advice. Building a strong support network will not only improve your technical skills but also help with problem-solving and decision-making.
