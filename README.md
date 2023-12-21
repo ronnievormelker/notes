@@ -157,3 +157,10 @@ This quote reminds us that while optimizing code for efficiency is important, it
 
 # 2023-12-20
 - "Keep it simple, stupid!"
+
+# 2023-12-21
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as understanding the newest trends and technologies in the industry.
+
+To become a successful programmer, you should also focus on building a solid foundation in core programming concepts, such as data structures, algorithms, software engineering, computer science theory, etc. By understanding these fundamentals, You will be able to better apply them to new problems and projects. Additionally, practice makes perfect, so it' s crucial to keep practicing and trying new things. The more projects you complete, the more experience you will gain, which will make you a better programmer. 
+ 学习新技能并不断练习。
+保持对行业趋势和技术的了解。
