@@ -309,3 +309,9 @@ In practice, this means using clear variable names, writing modular code, avoidi
 Secondly, planning ahead is essential. Before starting a new project, create a plan that outlines the steps you need to take to complete it. Including deadlines and milestones for each step will keep you on track and help prevent last-minute panic. Planning ahead will also help to identify potential problems or roadblocks before they become major issues. 
  最终，保持组织有序是提高编程效率的关键。使用版本控制系统（如Git）来管理你的代码，确保你的工作区始终整洁有序，并定期备份你的数据。这些习惯将帮助你在需要时轻松找到代码或数据，从而节省时间并减少错误。
 总之，通过优先处理任务，提前规划和保持有组织，你可以提高你的编程效率和生产力。
+
+# 2024-01-22
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clean, readable, and maintainable code first. Optimize only when it's necessary, based on data and profiling results. Remember that clarity and simplicity often lead to better performance in the long run." 
+
+In more detail:
+"Don't prematurely optimize your code for efficiency before you have a clear understanding of where the bottlenecks are. It can make your codebase complex, harder to read, and harder to maintain. Instead, write code that is straightforward, easy to understand, and adheres to good software design principles. Use profiling tools to identify performance issues and then target optimizations specifically at those areas. This way, you ensure that your time is spent wisely and your code remains both efficient and comprehensible."
