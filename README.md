@@ -315,3 +315,6 @@ Secondly, planning ahead is essential. Before starting a new project, create a p
 
 In more detail:
 "Don't prematurely optimize your code for efficiency before you have a clear understanding of where the bottlenecks are. It can make your codebase complex, harder to read, and harder to maintain. Instead, write code that is straightforward, easy to understand, and adheres to good software design principles. Use profiling tools to identify performance issues and then target optimizations specifically at those areas. This way, you ensure that your time is spent wisely and your code remains both efficient and comprehensible."
+
+# 2024-01-23
+- "Keep it simple, stupid!"
