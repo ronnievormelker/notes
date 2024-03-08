@@ -564,3 +564,10 @@ Lastly, 'Code is read much more often than it is written.' Always keep this in m
 
 Translation: 
 今日的编程智慧是：“简单即最高级的复杂。在软件开发中，应力求编写简洁、易读且易于维护的代码以解决手头问题，避免不必要的复杂性。切记，代码往往是被阅读次数远多于编写的次数，因此要花时间确保其清晰和精炼。模块化、抽象化以及恰当的文档是实现这一简洁性的关键要素，这些都将促使应用随着时间推移变得更加健壮且可扩展。”
+
+# 2024-03-08
+- Today's programming wisdom is:
+
+"Premature optimization is the root of all evil." — Donald Knuth
+
+This quote emphasizes that over-concern with efficiency and performance during early stages of software development can lead to unnecessary complexity, harder-to-maintain code, and might even hinder the overall performance. It suggests that it's more important to focus first on writing clear, correct, and maintainable code, and only optimize when profiling and measurements indicate a genuine need for improvement in specific areas. This approach helps ensure better software quality, maintainability, and actual performance gains where they matter most.
